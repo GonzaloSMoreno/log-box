@@ -1,5 +1,6 @@
 body {
     background-color: #0E4C75;
+    font-family: "Open Sans", sans-serif;
 }
 
 .logbox {
@@ -59,7 +60,5 @@ a{
     color: #8ED0F1;
 }
 
-span {
-    color: #8ED0F1;
-}
+
 
